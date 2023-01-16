@@ -1,0 +1,13 @@
+Name;Milk(ml);Coffee(g);Water(ml);Price
+
+Espresso;0;16;250;4
+Orange juice;0
+
+
+French fries
+Affogato;100;20;n/a;n/a
+Latte;75;20;350;7
+
+Cortado;50;Espresso
+
+Cappuccino;100;12;200;6
